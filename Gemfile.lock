@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     flex (0.4.2)
-      multi_json (~> 1.3.4)
+      multi_json (= 1.5.0)
       progressbar (~> 0.11.0)
       prompter (~> 0.1.5)
 
@@ -16,7 +16,7 @@ GEM
       dye (>= 0.1.3)
       prompter (>= 0.1.4)
     mime-types (1.19)
-    multi_json (1.3.7)
+    multi_json (1.5.0)
     patron (0.4.18)
     progressbar (0.11.0)
     prompter (0.1.5)
